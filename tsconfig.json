@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitAny": true
+  },
+  "include": ["./**/*"],
+  "exclude": ["node_modules"]
+}
